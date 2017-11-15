@@ -1,0 +1,5 @@
+﻿  AIHard.cpp
+c:\users\anton\source\repos\draughts\draughts\aihard.cpp(537): warning C4018: '<': signed/unsigned mismatch
+c:\users\anton\source\repos\draughts\draughts\aihard.cpp(592): warning C4018: '<': signed/unsigned mismatch
+c:\users\anton\source\repos\draughts\draughts\aihard.cpp(647): warning C4018: '<': signed/unsigned mismatch
+  Draughts.vcxproj -> C:\Users\anton\source\repos\Draughts\Debug\Draughts.exe
